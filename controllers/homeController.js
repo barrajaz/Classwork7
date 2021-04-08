@@ -1,5 +1,4 @@
 var courses = [
-    
     {
         title: "Raspberry Cake",
         cost: 50

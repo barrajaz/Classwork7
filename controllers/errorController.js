@@ -1,4 +1,4 @@
-const httpStatus = require("http-status-code")
+const httpStatus = require("http-status-codes")
 
 exports.pageNotFoundError = (req, res) => {
     let errorCode = httpStatus.NOT_FOUND;

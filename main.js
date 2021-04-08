@@ -1,4 +1,4 @@
-const express = require("express"), app = express();
+const express = require("express"), app = express(),
 homeController = require("./controllers/homeController"),
 errorController = require("./controllers/errorController"),
 layouts = require("express-ejs-layouts");
